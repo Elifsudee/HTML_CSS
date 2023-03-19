@@ -1,0 +1,26 @@
+*{
+    color: brown;
+}
+h1{
+    color: brown;
+}
+.paragraf{
+    text-align: center;
+}
+#p1{
+    background-color: aqua;
+}
+
+/*h1{
+
+    color: blue;
+}*/
+/*
+* hepsini sec
+h1{} secersek sadece  h1 deki degisir
+paragraf class isimleri de sekillendirilir clas isminde . konur
+
+id ulasmal icin # kullanilir
+
+
+*/
